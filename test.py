@@ -8,7 +8,7 @@ import google.generativeai as genai
 from PIL import Image
 
 # CONFIGURE GEMINI
-genai.configure(api_key="AIzaSyB7gKTnDrD4kcjnGbCI72RQbgaioYYMUh0")  # Replace with your actual API key
+genai.configure(api_key="GOOGLE_API_KEY")  # Replace with your actual API key
 
 # Constants
 INDEX_PATH = "dog_vectors.index"
