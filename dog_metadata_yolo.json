@@ -1,0 +1,107 @@
+[
+  {
+    "dog_id": "TNRPOP",
+    "image_path": "/content/IMG-20250619-WA0008.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Black and white\nFur Type: Short\nSize: Medium\nEar Type: Erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "WI1CNM",
+    "image_path": "/content/IMG-20250619-WA0011.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light Brown\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Unknown"
+  },
+  {
+    "dog_id": "QN698I",
+    "image_path": "/content/IMG-20250619-WA0033.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light brown with darker brown spots\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "IGR0C3",
+    "image_path": "/content/IMG-20250619-WA0037.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light tan with dark gray patches\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "7GMBOF",
+    "image_path": "/content/IMG-20250619-WA0039.jpg",
+    "description": "Breed: Unknown\nColor & Markings: Light brown\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "GXGXTO",
+    "image_path": "/content/IMG-20250619-WA0040.jpg",
+    "description": "Breed: Unknown\nColor & Markings: Light tan\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "OR6H7N",
+    "image_path": "/content/IMG-20250619-WA0044.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Black with tan points\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "RNRLXZ",
+    "image_path": "/content/IMG-20250619-WA0047.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Black and white\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "R3D4X5",
+    "image_path": "/content/IMG-20250619-WA0048.jpg",
+    "description": "Breed: Mixed\nColor & Markings: White with black patches\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "EJ5MWC",
+    "image_path": "/content/IMG-20250619-WA0051.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light brown\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "9P0ZU7",
+    "image_path": "/content/IMG-20250619-WA0056.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light Brown\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "TR19R8",
+    "image_path": "/content/IMG-20250619-WA0058.jpg",
+    "description": "Breed: Mixed\nColor & Markings: White and light brown\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Short"
+  },
+  {
+    "dog_id": "7W7Z9M",
+    "image_path": "/content/IMG-20250619-WA0062.jpg",
+    "description": "Breed: Unknown\nColor & Markings: Light Brown\nFur Type: Short\nSize: Medium\nEar Type: Floppy\nTail Type: Long"
+  },
+  {
+    "dog_id": "KLI9QP",
+    "image_path": "/content/IMG-20250619-WA0065.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Black with white markings\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Unknown"
+  },
+  {
+    "dog_id": "5DHOXS",
+    "image_path": "/content/IMG-20250619-WA0070.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light brown\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Unknown"
+  },
+  {
+    "dog_id": "Q0JN2T",
+    "image_path": "/content/IMG-20250619-WA0073.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Brown and black\nFur Type: Short\nSize: Medium\nEar Type: Floppy\nTail Type: Long"
+  },
+  {
+    "dog_id": "5JTILD",
+    "image_path": "/content/IMG-20250619-WA0083.jpg",
+    "description": "Breed: Podenco Ibicenco\nColor & Markings: Light fawn\nFur Type: Short\nSize: Medium\nEar Type: Erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "BV1Y3R",
+    "image_path": "/content/IMG-20250619-WA0087.jpg",
+    "description": "Breed: Unknown\nColor & Markings: Light brown\nFur Type: Short\nSize: Medium\nEar Type: Erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "KEWCKA",
+    "image_path": "/content/IMG-20250619-WA0089.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light brown with white markings\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "GUBUVB",
+    "image_path": "/content/IMG-20250619-WA0099.jpg",
+    "description": "Breed: Mixed\nColor & Markings: Light tan with white markings\nFur Type: Short\nSize: Medium\nEar Type: Semi-erect\nTail Type: Long"
+  },
+  {
+    "dog_id": "79IOCH",
+    "image_path": "/content/IMG-20250619-WA0104.jpg",
+    "description": "Breed: Unknown\nColor & Markings: Light cream/beige\nFur Type: Short\nSize: Medium\nEar Type: Floppy\nTail Type: Long"
+  }
+]
